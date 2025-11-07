@@ -1,0 +1,5 @@
+
+{
+  "name": "Jeju Weather Visualizer",
+  "description": "A web application to visualize weather data for different regions of Jeju Island. Users can select a region, a weather metric, and a date range to see the data presented in a chart, along with an AI-powered analysis of the trends."
+}
